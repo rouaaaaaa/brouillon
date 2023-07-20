@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.first {
+    display: inline;
+  }
+  nav{
+    background-color: rgb(174, 255, 0);
+    height: 7vh;
+    width: 100%;
+    position:fixed;
+  }
+  main{
+    background-color: aquamarine;
+    padding-top: 7vh;
+  }
+  h2{
+    color: violet;
+    background-color: tomato;
+  }
+  #mystudies{
+    
+  }
